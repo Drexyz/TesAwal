@@ -1,9 +1,9 @@
 # TesAwal
 
-Lolos tes ngoding.
-Gagal di interview.
-
-kekurangan:
-1.CRUD
-2.Presentasi
+Lolos tes ngoding.__
+Gagal di interview.__
+__
+kekurangan:__
+1.CRUD__
+2.Presentasi__
 3.Perbendaharaan fungsi/method.
